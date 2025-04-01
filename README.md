@@ -60,6 +60,6 @@ I’m open to:
 
  ⚡ Fun Fact
 
-I once [interesting fact about you, e.g., "built a React Native app while hiking"]!  
+I once built an outpatient management mobile app for my university program using react native in 3 days. 
 
 
