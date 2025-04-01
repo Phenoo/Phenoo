@@ -1,14 +1,11 @@
 ## Hi there 👋
 
-<!--
-**Phenoo/Phenoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 # Hi there, I'm Eze Chidera! 👋
 
 🚀 **Frontend & Mobile Developer** passionate about building sleek, performant apps with **SwiftUI, React, and Next.js**.  
-📍 Based in [Your Location] | 📧 [Your Email] | 🐦 [Your Twitter Handle (if any)]
+📍 Based in Nigeria | 📧 descometusah@gmail.com
 
 ---
 
@@ -55,15 +52,13 @@ I’m open to:
 - Hackathons or tech talks  
 
 ---
-
-### 📫 Reach Me
+ 📫 Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eze-chidera-23a361297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?logo=vercel&logoColor=white)](https://logicleads.tech)
 
----
 
-### ⚡ Fun Fact
+ ⚡ Fun Fact
 
 I once [interesting fact about you, e.g., "built a React Native app while hiking"]!  
 
