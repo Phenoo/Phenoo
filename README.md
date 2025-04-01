@@ -30,9 +30,8 @@
 
 ### 🔭 Current Projects
 
-- **iOS App**: Building a [brief description] with SwiftUI + Combine.  
-- **Web App**: Developing a [brief description] using Next.js 14 + App Router.  
-- **Open Source**: Contributing to [project name] — [link to repo].
+- **iOS App**: Building a mobile app used your invoice data and converts it to a PDF file using in-built PDFKit. with SwiftUI + Combine.  https://github.com/Phenoo/Invoicemaker_swift
+- **Web App**: Developing a LMS using Next.js 14 + App Router.  
 
 ---
 
